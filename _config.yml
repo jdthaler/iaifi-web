@@ -1,2 +1,5 @@
-title:  The Institute for Artificial Intelligence and Fundamental Interactions
+title: The Institute for Artificial Intelligence and Fundamental Interactions
 theme: jekyll-theme-cayman
+
+github:
+  is_project_page: false
